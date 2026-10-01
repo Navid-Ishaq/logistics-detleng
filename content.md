@@ -2,27 +2,29 @@
 
 ## From Understanding to Practice
 
-Understand the journey. Learn the foundations. Explore the work.
+See the world in motion. Understand the system. Learn how to make it work.
 
 ## 1. Home — Behind Every Product
 
-### Every product has a journey. Every journey needs a plan.
+### Logistics moves the world. Supply chains make that movement possible.
 
-The backpack you carry, the food you buy, and the medicine a pharmacy receives all depend on people and systems working together.
+Every day, billions of needs become decisions. Materials cross borders. Ships enter ports. Aircraft connect continents. Trains and trucks carry goods through national networks. Warehouses prepare orders. Data moves ahead of every shipment. People coordinate each handoff.
 
-Materials must be purchased. Products must be made. Stock must be stored. Orders must be prepared. Deliveries must reach the right place. Information must stay accurate along the way.
+The backpack you carry, the food you buy, the medicine a pharmacy receives and the parts that keep a factory running all depend on this connected system. Materials must be sourced. Products must be made. Stock must be positioned. Orders must be fulfilled. Deliveries must reach the right place. Information must remain accurate from beginning to end.
 
-Logistics and supply chain management help these activities work together, so customers receive what they need and businesses use their resources carefully.
+**Logistics** controls movement and storage. **Supply chain management** connects the larger network of demand, sourcing, production, inventory, transport, technology, finance and customer service. Together, they turn plans into physical reality.
 
-This guide makes that world easier to understand. You can explore how it works, what people do, which skills matter, and how to begin learning without industry experience.
+This website opens that hidden world. You will see how the complete system works, what professionals actually decide, which skills create value, where technology supports the work, how disruption travels through a network, and how a beginner can start practising with purpose.
+
+This is not only a guide to trucks and warehouses. It is an introduction to the operating system behind global trade—and to the thinking required to keep that system moving.
 
 **Start with the basics** · **Follow a product** · **Explore careers**
 
-### A connected field
+### One field. A worldwide network.
 
-Supply chains connect purchasing, production, storage, transport, technology, finance, and customer service. A decision in one area can change what happens elsewhere.
+Supply chains stretch from local suppliers to global ports, factories, distribution centres, digital platforms and customers. They connect purchasing, production, storage, transport, technology, finance and customer service across organisations, regions and time zones.
 
-Understanding these connections is the first step towards understanding the work.
+A decision in one place can change service, cost, inventory, capacity or risk somewhere else. Understanding those connections is the first step towards understanding the work—and towards making better decisions inside it.
 
 ### New to the field? You can start here.
 
