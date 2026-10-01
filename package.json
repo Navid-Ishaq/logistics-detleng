@@ -1,0 +1,8 @@
+{
+  "name": "logistics-detleng",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Logistics & Supply Chain — From Understanding to Practice",
+  "scripts": { "dev": "node scripts/serve-static.mjs", "build": "node scripts/validate-site.mjs" }
+}
